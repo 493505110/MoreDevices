@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "moredevices:other/nothing",
+    "down": "moredevices:other/nothing",
+    "up": "moredevices:other/nothing",
+    "north": "moredevices:other/nothing",
+    "south": "moredevices:other/nothing",
+    "west": "moredevices:other/nothing",
+    "east": "moredevices:other/nothing"
+  }
+}

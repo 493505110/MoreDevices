@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "moredevices:blocks/golden_egg_block",
+    "down": "moredevices:blocks/golden_egg_block",
+    "up": "moredevices:blocks/golden_egg_block",
+    "north": "moredevices:blocks/golden_egg_block2",
+    "south": "moredevices:blocks/golden_egg_block2",
+    "west": "moredevices:blocks/golden_egg_block2",
+    "east": "moredevices:blocks/golden_egg_block2"
+  }
+}
