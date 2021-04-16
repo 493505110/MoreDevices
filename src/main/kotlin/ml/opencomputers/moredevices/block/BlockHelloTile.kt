@@ -9,7 +9,7 @@ import net.minecraft.tileentity.TileEntity
 class BlockHelloTile : TileEntity(), SimpleComponent {
     override fun getComponentName(): String = "fancy_thing"
 
-    @Callback
+    @Callback(doc = "function(username: String): String --返回Hello, %s!")
     fun greet(context: Context, args: Arguments): Array<Any> {
         return arrayOf(
             String.format("Hello, %s!", args.checkString(0))
