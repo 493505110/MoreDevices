@@ -2,7 +2,7 @@
 {
   "modid": "moredevices",
   "name": "More devices",
-  "description": "an addon for opencomputers.",
+  "description": "An addon for opencomputers.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "https://github.com/493505110/MoreDevices",
